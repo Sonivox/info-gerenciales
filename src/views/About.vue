@@ -1,5 +1,14 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="container">
+    <h1>Sobre nosotros</h1>
+    <h4>Estudiantes de la Universidad de El Salvador diseñando proyecto gerencial</h4>
   </div>
 </template>
+
+<script>
+
+</script>
+
+<style>
+
+</style>
